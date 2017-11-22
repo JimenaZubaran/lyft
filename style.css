@@ -1,0 +1,103 @@
+*{
+ font-family: 'Montserrat', sans-serif;
+}
+
+#section1 {
+ background-size: 1044px;
+ height: 900px;
+ width: 1018px;
+ margin: auto;
+ padding: 0px;
+ color: #FFF;
+ font-family: 'Montserrat', sans-serif;
+ background: linear-gradient(#76278F, #2B1E66);
+}
+
+#section1 > nav {
+ background-image: url("./../assets/images/hero.gif");
+ background-size: 1000px;
+ height: 500px;
+ width: 978px;
+ margin: 0px;
+ bottom: 300px;
+ padding: 20px;
+}
+
+#section1 > nav > p {
+position: relative;
+display: inline;
+left: 500px;
+top: 15px;
+margin: 10px;
+padding: 10px;
+padding-top: 20px;
+font-weight: 400px;
+}
+
+#section1 > nav > .botton {
+border: solid 1px #FFF;
+border-radius: 30%
+}
+
+#section1 > nav > img {
+ width: 60%;
+ height: 45%;
+ position: relative;
+ left: 10px;
+ bottom: 100px;
+}
+
+#section1 >  div > img {
+ width: 40%;
+ height: 45%;
+ position: relative;
+ left: 570px;
+ bottom: 140px;
+}
+
+#section1> nav > div> div {
+ width: 100px;
+ margin: 10px;
+ padding: 0px;
+ font-weight: 400px;
+ position: relative;
+ display: inline;
+ left: 40px;
+ top: 400px;
+ font-size: 100;
+}
+
+#section1> nav > div> div > h6, h4{
+ margin: 0px;
+}
+
+#section1> div > .box-white{
+width: 400px;
+height: 300px;
+background: #FFF;
+color: #000;
+float: right;
+top: 20px;
+}
+
+#section2{
+ height: 570px;
+ width: 1100px;
+}
+
+
+#section2 > p {
+ width: 300px;
+ font-weight: 400px;
+}
+
+#section2 > h5 h3 {
+ margin: 0px;
+ padding: 0px;
+}
+.container {
+ width: 700px;
+ margin-right: auto;
+ margin-left: auto;
+ padding-right: 300px;
+}
